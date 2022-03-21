@@ -1,8 +1,6 @@
 import sys
 
 
-# M, D, C
-# C, L, X
 def addchar(st, ch1, ch2, ch3, c):
     if c == 9:
         st += ch3
